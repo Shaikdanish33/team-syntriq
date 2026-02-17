@@ -2,6 +2,7 @@
 Campus Academic Resource Sharing Platform  
 
 Built by Team Syntriq  
+
 St. Claret College Autonomous  
 
 ---
@@ -63,7 +64,7 @@ The goal of ACADEX is to transform scattered academic materials into a centraliz
 ---
 
 ### 5. Access Control Simulation
-- Private resources accessible only to same-college users
+- Private resources accessible only to the selected users
 - Access denied screen for unauthorized users
 - Public resources accessible to all
 
@@ -118,5 +119,3 @@ The goal of ACADEX is to transform scattered academic materials into a centraliz
 - Ability to link uploads to requests (UI simulation)
 
 ---
-
-ACADEX is designed to feel like a real academic startup product, with smooth animations, responsive design, clean architecture, and a professional user experience suitable for hackathon demonstration.
