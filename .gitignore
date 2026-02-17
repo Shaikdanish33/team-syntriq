@@ -1,0 +1,19 @@
+# dependencies
+**/node_modules/
+
+# env
+**/.env
+**/.env.local
+**/.env.*.local
+
+# build output
+**/dist/
+**/.next/
+**/out/
+
+# logs
+*.log
+**/*.log
+
+# misc
+**/*.tsbuildinfo
